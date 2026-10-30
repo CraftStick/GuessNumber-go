@@ -1,17 +1,20 @@
-# 🎮 Guess the Number — Go Console Game
+# Guess the Number
 
-A fun and colorful console game written in Go!  
-Guess the number I'm thinking of... with difficulty levels and attempt counter.
-<img width="569" alt="Снимок экрана 2025-05-09 в 13 30 47" src="https://github.com/user-attachments/assets/89d52a36-efc4-4fdd-aa44-fd67bce08c7a" />
+[English](README.md) · [Русский](README.ru.md)
 
-## 🕹️ Features
+A colorful console game in Go: guess the number the computer is thinking of.
 
-- Multiple difficulty levels (Easy, Medium, Hard)
+## Features
+
+- Three difficulty levels: Easy, Medium and Hard
 - Colored terminal output
 - Clean game screen on each round
-- Keeps track of attempts
+- Attempt counter
 
-## ▶ How to Run
+## Getting Started
+
+Requires [Go](https://go.dev/dl/).
 
 ```bash
 go run guess.go
+```
